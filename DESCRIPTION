@@ -1,0 +1,21 @@
+Package: cjointplots
+Type: Package
+Title: Beautiful Plotting for Conjoints
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Alice", "Malmberg",
+      email = "ammalmberg@ucdavis.edu",
+      role = c("aut", "cre")
+    ), 
+  person(
+      "Sharif", "Amlani",
+      email = "sharifocc@gmail.com",
+      role = c("aut")
+    )
+  )
+Description: Formatted AMCE and marginal mean plots for presenting conjoint results.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2.9000
